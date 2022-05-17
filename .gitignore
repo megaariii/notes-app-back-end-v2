@@ -2,3 +2,5 @@ node_modules
 notes-api-webserver-v2.pem
 .env
 .prod.env
+test
+src/api/uploads/file
